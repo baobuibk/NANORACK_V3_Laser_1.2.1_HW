@@ -1,0 +1,51 @@
+Added Component: Designator=TP1(TESTPOINT)
+Added Component: Designator=TP2(TESTPOINT)
+Added Component: Designator=TP3(TESTPOINT)
+Added Component: Designator=TP4(TESTPOINT)
+Added Component: Designator=TP5(TESTPOINT)
+Added Component: Designator=TP6(TESTPOINT)
+Added Component: Designator=TP7(TESTPOINT)
+Added Component: Designator=TP8(TESTPOINT)
+Added Component: Designator=TP11(TESTPOINT)
+Added Component: Designator=TP12(TESTPOINT)
+Added Component: Designator=TP13(TESTPOINT)
+Added Component: Designator=TP14(TESTPOINT)
+Added Component: Designator=TP15(TESTPOINT)
+Added Component: Designator=TP16(TESTPOINT)
+Added Component: Designator=TP17(TESTPOINT)
+Added Component: Designator=TP18(TESTPOINT)
+Added Component: Designator=TP19(TESTPOINT)
+Added Pin To Net: NetName=DAC_DRV_INT Pin=TP1-1
+Added Pin To Net: NetName=DAC_DRV_EXT Pin=TP2-1
+Added Pin To Net: NetName=VREF_DAC Pin=TP3-1
+Added Pin To Net: NetName=SCK_LD Pin=TP4-1
+Added Pin To Net: NetName=MISO_LD Pin=TP5-1
+Added Pin To Net: NetName=MOSI_LD Pin=TP6-1
+Added Pin To Net: NetName=I_MO_EXT Pin=TP7-1
+Added Pin To Net: NetName=I_MO_INT Pin=TP8-1
+Added Pin To Net: NetName=I_MO_INT Pin=TP11-1
+Added Pin To Net: NetName=I_MO_EXT Pin=TP12-1
+Added Pin To Net: NetName=I_LD_INT Pin=TP13-1
+Added Pin To Net: NetName=NetD1_2 Pin=TP14-1
+Added Pin To Net: NetName=SDO_3 Pin=TP15-1
+Added Pin To Net: NetName=SDO_1 Pin=TP16-1
+Added Pin To Net: NetName=SDO_4 Pin=TP17-1
+Added Pin To Net: NetName=SDO_2 Pin=TP18-1
+Added Pin To Net: NetName=SDO_5 Pin=TP19-1
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP1 Test_Point
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP2 Test_Point
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP3 Test_Point
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP4 Test_Point
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP5 Test_Point
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP6 Test_Point
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP7 Test_Point
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP8 Test_Point
+Added Member To Class: ClassName=CURRENT_SOURCE Member=Component TP11 Test_Point
+Added Member To Class: ClassName=CURRENT_SOURCE Member=Component TP12 Test_Point
+Added Member To Class: ClassName=SWITCHING Member=Component TP13 Test_Point
+Added Member To Class: ClassName=SWITCHING Member=Component TP14 Test_Point
+Added Member To Class: ClassName=SWITCHING Member=Component TP15 Test_Point
+Added Member To Class: ClassName=SWITCHING Member=Component TP16 Test_Point
+Added Member To Class: ClassName=SWITCHING Member=Component TP17 Test_Point
+Added Member To Class: ClassName=SWITCHING Member=Component TP18 Test_Point
+Added Member To Class: ClassName=SWITCHING Member=Component TP19 Test_Point

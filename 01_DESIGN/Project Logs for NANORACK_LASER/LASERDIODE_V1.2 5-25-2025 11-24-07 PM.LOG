@@ -1,0 +1,132 @@
+Added Component: Designator=U4(TSSOP24)
+Added Component: Designator=U5(TSSOP24)
+Added Component: Designator=U6(TSSOP24)
+Added Component: Designator=U7(TSSOP24)
+Added Component: Designator=U8(TSSOP24)
+Added Component: Designator=U9(TSSOP24)
+Added Pin To Net: NetName=SCK_LD Pin=U4-1
+Added Pin To Net: NetName=12V_EXP Pin=U4-2
+Added Pin To Net: NetName=MOSI_LD Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetD1_2 Pin=U4-5
+Added Pin To Net: NetName=12V_EXP Pin=U4-6
+Added Pin To Net: NetName=NetD4_2 Pin=U4-7
+Added Pin To Net: NetName=12V_EXP Pin=U4-8
+Added Pin To Net: NetName=NetD6_2 Pin=U4-9
+Added Pin To Net: NetName=12V_EXP Pin=U4-10
+Added Pin To Net: NetName=NetD8_2 Pin=U4-11
+Added Pin To Net: NetName=12V_EXP Pin=U4-12
+Added Pin To Net: NetName=12V_EXP Pin=U4-13
+Added Pin To Net: NetName=NetD5_2 Pin=U4-14
+Added Pin To Net: NetName=12V_EXP Pin=U4-15
+Added Pin To Net: NetName=NetD3_2 Pin=U4-16
+Added Pin To Net: NetName=GND Pin=U4-21
+Added Pin To Net: NetName=SDO_1 Pin=U4-22
+Added Pin To Net: NetName=NetR19_1 Pin=U4-23
+Added Pin To Net: NetName=SW_INT_CS Pin=U4-24
+Added Pin To Net: NetName=SCK_LD Pin=U5-1
+Added Pin To Net: NetName=12V_EXP Pin=U5-2
+Added Pin To Net: NetName=SDO_3 Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=NetD22_2 Pin=U5-5
+Added Pin To Net: NetName=12V_EXP Pin=U5-6
+Added Pin To Net: NetName=NetD24_2 Pin=U5-7
+Added Pin To Net: NetName=12V_EXP Pin=U5-8
+Added Pin To Net: NetName=NetD17_2 Pin=U5-9
+Added Pin To Net: NetName=12V_EXP Pin=U5-10
+Added Pin To Net: NetName=NetD20_2 Pin=U5-11
+Added Pin To Net: NetName=12V_EXP Pin=U5-12
+Added Pin To Net: NetName=12V_EXP Pin=U5-13
+Added Pin To Net: NetName=NetD21_2 Pin=U5-14
+Added Pin To Net: NetName=12V_EXP Pin=U5-15
+Added Pin To Net: NetName=NetD23_2 Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U5-21
+Added Pin To Net: NetName=SDO_4 Pin=U5-22
+Added Pin To Net: NetName=NetR17_1 Pin=U5-23
+Added Pin To Net: NetName=SW_INT_CS Pin=U5-24
+Added Pin To Net: NetName=SCK_LD Pin=U6-1
+Added Pin To Net: NetName=12V_EXP Pin=U6-2
+Added Pin To Net: NetName=SDO_1 Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=NetD2_2 Pin=U6-5
+Added Pin To Net: NetName=12V_EXP Pin=U6-6
+Added Pin To Net: NetName=NetD7_2 Pin=U6-7
+Added Pin To Net: NetName=12V_EXP Pin=U6-8
+Added Pin To Net: NetName=NetD10_2 Pin=U6-9
+Added Pin To Net: NetName=12V_EXP Pin=U6-10
+Added Pin To Net: NetName=NetD12_2 Pin=U6-11
+Added Pin To Net: NetName=12V_EXP Pin=U6-12
+Added Pin To Net: NetName=12V_EXP Pin=U6-13
+Added Pin To Net: NetName=NetD14_2 Pin=U6-14
+Added Pin To Net: NetName=12V_EXP Pin=U6-15
+Added Pin To Net: NetName=NetD16_2 Pin=U6-16
+Added Pin To Net: NetName=GND Pin=U6-21
+Added Pin To Net: NetName=SDO_2 Pin=U6-22
+Added Pin To Net: NetName=NetR15_1 Pin=U6-23
+Added Pin To Net: NetName=SW_INT_CS Pin=U6-24
+Added Pin To Net: NetName=SCK_LD Pin=U7-1
+Added Pin To Net: NetName=12V_EXP Pin=U7-2
+Added Pin To Net: NetName=SDO_4 Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=NetD26_2 Pin=U7-5
+Added Pin To Net: NetName=12V_EXP Pin=U7-6
+Added Pin To Net: NetName=NetD27_2 Pin=U7-7
+Added Pin To Net: NetName=12V_EXP Pin=U7-8
+Added Pin To Net: NetName=NetD30_2 Pin=U7-9
+Added Pin To Net: NetName=12V_EXP Pin=U7-10
+Added Pin To Net: NetName=NetD32_2 Pin=U7-11
+Added Pin To Net: NetName=12V_EXP Pin=U7-12
+Added Pin To Net: NetName=12V_EXP Pin=U7-13
+Added Pin To Net: NetName=NetD25_2 Pin=U7-14
+Added Pin To Net: NetName=12V_EXP Pin=U7-15
+Added Pin To Net: NetName=NetD28_2 Pin=U7-16
+Added Pin To Net: NetName=GND Pin=U7-21
+Added Pin To Net: NetName=SDO_5 Pin=U7-22
+Added Pin To Net: NetName=NetR18_1 Pin=U7-23
+Added Pin To Net: NetName=SW_INT_CS Pin=U7-24
+Added Pin To Net: NetName=SCK_LD Pin=U8-1
+Added Pin To Net: NetName=12V_EXP Pin=U8-2
+Added Pin To Net: NetName=SDO_5 Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=NetD29_2 Pin=U8-5
+Added Pin To Net: NetName=12V_EXP Pin=U8-6
+Added Pin To Net: NetName=NetD31_2 Pin=U8-7
+Added Pin To Net: NetName=12V_EXP Pin=U8-8
+Added Pin To Net: NetName=NetD34_2 Pin=U8-9
+Added Pin To Net: NetName=12V_EXP Pin=U8-10
+Added Pin To Net: NetName=NetD35_2 Pin=U8-11
+Added Pin To Net: NetName=12V_EXP Pin=U8-12
+Added Pin To Net: NetName=12V_EXP Pin=U8-13
+Added Pin To Net: NetName=NetD38_2 Pin=U8-14
+Added Pin To Net: NetName=12V_EXP Pin=U8-15
+Added Pin To Net: NetName=NetD40_2 Pin=U8-16
+Added Pin To Net: NetName=GND Pin=U8-21
+Added Pin To Net: NetName=SDO_6 Pin=U8-22
+Added Pin To Net: NetName=NetR36_1 Pin=U8-23
+Added Pin To Net: NetName=SW_INT_CS Pin=U8-24
+Added Pin To Net: NetName=SCK_LD Pin=U9-1
+Added Pin To Net: NetName=12V_EXP Pin=U9-2
+Added Pin To Net: NetName=SDO_2 Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=NetD9_2 Pin=U9-5
+Added Pin To Net: NetName=12V_EXP Pin=U9-6
+Added Pin To Net: NetName=NetD11_2 Pin=U9-7
+Added Pin To Net: NetName=12V_EXP Pin=U9-8
+Added Pin To Net: NetName=NetD13_2 Pin=U9-9
+Added Pin To Net: NetName=12V_EXP Pin=U9-10
+Added Pin To Net: NetName=NetD15_2 Pin=U9-11
+Added Pin To Net: NetName=12V_EXP Pin=U9-12
+Added Pin To Net: NetName=12V_EXP Pin=U9-13
+Added Pin To Net: NetName=NetD18_2 Pin=U9-14
+Added Pin To Net: NetName=12V_EXP Pin=U9-15
+Added Pin To Net: NetName=NetD19_2 Pin=U9-16
+Added Pin To Net: NetName=GND Pin=U9-21
+Added Pin To Net: NetName=SDO_3 Pin=U9-22
+Added Pin To Net: NetName=NetR16_1 Pin=U9-23
+Added Pin To Net: NetName=SW_INT_CS Pin=U9-24
+Added Member To Class: ClassName=SWITCHING Member=Component U4 ADG1414BRUZ
+Added Member To Class: ClassName=SWITCHING Member=Component U5 ADG1414BRUZ
+Added Member To Class: ClassName=SWITCHING Member=Component U6 ADG1414BRUZ
+Added Member To Class: ClassName=SWITCHING Member=Component U7 ADG1414BRUZ
+Added Member To Class: ClassName=SWITCHING Member=Component U8 ADG1414BRUZ
+Added Member To Class: ClassName=SWITCHING Member=Component U9 ADG1414BRUZ

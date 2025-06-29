@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=SHIELD Pin=H-1
+Removed Pin From Net: NetName=SHIELD Pin=H-1
+Removed Pin From Net: NetName=SHIELD Pin=H-1
+Removed Pin From Net: NetName=SHIELD Pin=H-1
+Removed Pin From Net: NetName=SHIELD Pin=H-1
+Removed Pin From Net: NetName=SHIELD Pin=H-1
+Removed Pin From Net: NetName=SHIELD Pin=H-1
+Removed Pin From Net: NetName=SHIELD Pin=H-1
+Removed Pin From Net: NetName=SHIELD Pin=H-1
+Removed Member From Class: ClassName=COMMUNICATION Member=H
+Added Component: Designator=H8(M3)
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Member To Class: ClassName=COMMUNICATION Member=Component H8 HOLD

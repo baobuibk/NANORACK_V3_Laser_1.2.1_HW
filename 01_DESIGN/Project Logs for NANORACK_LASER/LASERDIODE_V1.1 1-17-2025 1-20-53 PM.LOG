@@ -1,0 +1,6 @@
+Added Component: Designator=TP7(TESTPOINT)
+Added Component: Designator=TP8(TESTPOINT)
+Added Pin To Net: NetName=I_MO_EXT Pin=TP7-1
+Added Pin To Net: NetName=I_MO_INT Pin=TP8-1
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP7 Test_Point
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP8 Test_Point

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SHIELD Pin=J1-9
+Removed Pin From Net: NetName=SHIELD Pin=J1-10
+Added Component: Designator=TP7(TESTPOINT)
+Added Component: Designator=TP8(TESTPOINT)
+Added Pin To Net: NetName=I_MO_EXT Pin=TP7-1
+Added Pin To Net: NetName=I_MO_INT Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=U5-HTAB
+Added Pin To Net: NetName=GND Pin=U6-HTAB
+Added Pin To Net: NetName=GND Pin=U7-HTAB
+Added Pin To Net: NetName=GND Pin=U8-HTAB
+Added Pin To Net: NetName=GND Pin=U9-HTAB
+Added Pin To Net: NetName=GND Pin=U10-HTAB
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP7 Test_Point
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP8 Test_Point

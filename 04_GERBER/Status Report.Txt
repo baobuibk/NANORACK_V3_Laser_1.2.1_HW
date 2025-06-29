@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NANORACK_LASER.PrjPcb]
+   Generated File[LASERDIODE_V1.3.1.TXT]
+   Generated File[LASERDIODE_V1.3.1.LDP]
+   Generated File[LASERDIODE_V1.3.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:45:48 PM On 6/29/2025

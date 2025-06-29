@@ -1,0 +1,88 @@
+Added Component: Designator=H1(M3)
+Added Component: Designator=H2(M3)
+Added Component: Designator=H3(M3)
+Added Component: Designator=H4(M3)
+Added Component: Designator=H5(M3)
+Added Component: Designator=H6(M3)
+Added Component: Designator=H7(M3)
+Added Component: Designator=H8(M3)
+Added Pin To Net: NetName=SHIELD Pin=H1-1
+Added Pin To Net: NetName=SHIELD Pin=H1-1
+Added Pin To Net: NetName=SHIELD Pin=H1-1
+Added Pin To Net: NetName=SHIELD Pin=H1-1
+Added Pin To Net: NetName=SHIELD Pin=H1-1
+Added Pin To Net: NetName=SHIELD Pin=H1-1
+Added Pin To Net: NetName=SHIELD Pin=H1-1
+Added Pin To Net: NetName=SHIELD Pin=H1-1
+Added Pin To Net: NetName=SHIELD Pin=H1-1
+Added Pin To Net: NetName=SHIELD Pin=H2-1
+Added Pin To Net: NetName=SHIELD Pin=H2-1
+Added Pin To Net: NetName=SHIELD Pin=H2-1
+Added Pin To Net: NetName=SHIELD Pin=H2-1
+Added Pin To Net: NetName=SHIELD Pin=H2-1
+Added Pin To Net: NetName=SHIELD Pin=H2-1
+Added Pin To Net: NetName=SHIELD Pin=H2-1
+Added Pin To Net: NetName=SHIELD Pin=H2-1
+Added Pin To Net: NetName=SHIELD Pin=H2-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H4-1
+Added Pin To Net: NetName=SHIELD Pin=H4-1
+Added Pin To Net: NetName=SHIELD Pin=H4-1
+Added Pin To Net: NetName=SHIELD Pin=H4-1
+Added Pin To Net: NetName=SHIELD Pin=H4-1
+Added Pin To Net: NetName=SHIELD Pin=H4-1
+Added Pin To Net: NetName=SHIELD Pin=H4-1
+Added Pin To Net: NetName=SHIELD Pin=H4-1
+Added Pin To Net: NetName=SHIELD Pin=H4-1
+Added Pin To Net: NetName=SHIELD Pin=H5-1
+Added Pin To Net: NetName=SHIELD Pin=H5-1
+Added Pin To Net: NetName=SHIELD Pin=H5-1
+Added Pin To Net: NetName=SHIELD Pin=H5-1
+Added Pin To Net: NetName=SHIELD Pin=H5-1
+Added Pin To Net: NetName=SHIELD Pin=H5-1
+Added Pin To Net: NetName=SHIELD Pin=H5-1
+Added Pin To Net: NetName=SHIELD Pin=H5-1
+Added Pin To Net: NetName=SHIELD Pin=H5-1
+Added Pin To Net: NetName=SHIELD Pin=H6-1
+Added Pin To Net: NetName=SHIELD Pin=H6-1
+Added Pin To Net: NetName=SHIELD Pin=H6-1
+Added Pin To Net: NetName=SHIELD Pin=H6-1
+Added Pin To Net: NetName=SHIELD Pin=H6-1
+Added Pin To Net: NetName=SHIELD Pin=H6-1
+Added Pin To Net: NetName=SHIELD Pin=H6-1
+Added Pin To Net: NetName=SHIELD Pin=H6-1
+Added Pin To Net: NetName=SHIELD Pin=H6-1
+Added Pin To Net: NetName=SHIELD Pin=H7-1
+Added Pin To Net: NetName=SHIELD Pin=H7-1
+Added Pin To Net: NetName=SHIELD Pin=H7-1
+Added Pin To Net: NetName=SHIELD Pin=H7-1
+Added Pin To Net: NetName=SHIELD Pin=H7-1
+Added Pin To Net: NetName=SHIELD Pin=H7-1
+Added Pin To Net: NetName=SHIELD Pin=H7-1
+Added Pin To Net: NetName=SHIELD Pin=H7-1
+Added Pin To Net: NetName=SHIELD Pin=H7-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Pin To Net: NetName=SHIELD Pin=H8-1
+Added Member To Class: ClassName=COMMUNICATION Member=Component H1 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H2 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H3 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H4 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H5 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H6 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H7 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H8 HOLD
