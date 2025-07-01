@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [NANORACK_LASER.PrjPcb]
-   Generated File[LASERDIODE_V1.3.1.TXT]
-   Generated File[LASERDIODE_V1.3.1.LDP]
-   Generated File[LASERDIODE_V1.3.1.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [NANORACK_LASER.PrjPcb]
+   Generated File[Pick Place for LASERDIODE_V1.2.2.csv]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 3:45:48 PM On 6/29/2025
+Finished Output Generation At 6:58:43 PM On 7/1/2025
